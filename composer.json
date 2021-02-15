@@ -33,5 +33,9 @@
     },
     "scripts-descriptions":{
         "check": "Analiza nosso código com PHPCS e PHAN"
-    }
+    },
+    "license": "GPL-2.0",
+    "bin": ["buscar-cursos.php"]
+
+
 }

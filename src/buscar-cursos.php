@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 //============================Criação do buscador de cursos sem usar orientação a objetos==============================
